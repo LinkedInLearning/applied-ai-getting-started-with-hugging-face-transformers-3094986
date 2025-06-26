@@ -1,1 +1,9 @@
 # Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+tensorflow==2.19.0
+torch==2.7.0+cpu
+transformers==4.53.0
+datasets==3.6.0
+sentencepiece==0.2.0
+evaluate==0.4.4
+rouge_score==0.1.2
+tf-keras==2.19.0
